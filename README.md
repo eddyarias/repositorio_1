@@ -1,2 +1,2 @@
 # repositorio_1
-hello
+Repositorio que corresponde al primer ejercicio usando Github.
